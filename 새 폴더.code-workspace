@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../새 폴더"
+		},
+		{
+			"path": "iPortfolio"
+		},
+		{
+			"name": "index",
+			"path": "index"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "iPortfolio"
+	}
+}
